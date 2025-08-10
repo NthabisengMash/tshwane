@@ -1,0 +1,10 @@
+{
+    "buses": [
+      { "id": 1, "name": "Bus A" },
+      { "id": 2, "name": "Bus B" }
+    ],
+    "users": [
+      { "id": 1, "username": "user1", "password": "pass1", "name": "User One" }
+    ]
+  }
+  
